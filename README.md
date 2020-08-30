@@ -19,6 +19,14 @@ You can see what is actively being worked on.
 Social Media
 ------------
 * [Vo.codes Discord Server](https://discord.gg/QvqwTfU) join the community. Suggest features and share creations.
-* [Twitter @vocodes](https://twitter.com/vocodes) is the official Twitter for Vo.codes
 * [Follow @echelon (creator) on Twitter](https://twitter.com/echelon) for updates on Vo.codes and his other projects.
+
+### Work in progress
+I'm creating official social media accounts, but they're not quite ready yet. Feel free to add/subscribe to them.
+
+* [Twitter](https://twitter.com/vocodes)
+* [Instagram](https://www.instagram.com/vocodes/)
+* [Facebook](https://www.facebook.com/vocodes/)
+* [YouTube](https://www.youtube.com/channel/UCYdtRDurD3usWdomStX0ZXQ)
+* [TikTok](https://www.tiktok.com/@vocodes)
 
